@@ -5,6 +5,6 @@ jobs:
 Test:
 run-on: ubuntu-latest
 steps:
-- run: echo " The job was automatically triggered by a ${{ github.event_name}} event."
-event."
-- run: main.Py
+uses: action/checkout@v2
+- run: echo " The job was automatically triggered by a ${{ github.event_name}}event."
+- run: main.Py 
