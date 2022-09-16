@@ -7,4 +7,4 @@ run-on: windows-latest
 steps:
 -uses: action/checkout@v2
 -run: echo " The job was automatically triggered by a ${{ github.event_name }}event."
--run: py main.py
+-run: py -3.10 main.py
