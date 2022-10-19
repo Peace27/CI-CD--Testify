@@ -7,3 +7,13 @@ jobs:
      - uses: actions/checkout@v2
      - run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
      - run: python main.py
+     - run: node jsCodingChallengeHenryAndPeace\challenge_1.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_2.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_3.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_4.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_5.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_6.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_7.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_8.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_9.js
+     - run: node jsCodingChallengeHenryAndPeace\challenge_10.js
