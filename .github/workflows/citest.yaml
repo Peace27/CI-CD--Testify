@@ -17,3 +17,39 @@ jobs:
      - run: node jsCodingChallengeHenryAndPeace\challenge_8.js
      - run: node jsCodingChallengeHenryAndPeace\challenge_9.js
      - run: node jsCodingChallengeHenryAndPeace\challenge_10.js
+     - run: node jsTask\Task5.js
+     - run: node jsTask\Task6.js
+     - run: node jsTask\Task7.js
+     - run: node jsTask\Task8.js
+     - run: node jsTask\Task9.js
+     - run: node jsTask\Task10.js
+     - run: node jsTask\Task11.js
+     - run: node jsTask\Task12.js
+     - run: node jsTask\Task13.js
+     - run: node jsTask\Task14.js
+     - run: python pythonTasks\Task1.py
+     - run: python pythonTasks\Task2.py
+     - run: python pythonTasks\Task3.py
+     - run: python pythonTasks\Task4.py
+     - run: python pythonTasks\Task5.py
+     - run: python pythonTasks\Task6.py
+     - run: python pythonTasks\Task7.py
+     - run: python pythonTasks\Task8.py
+     - run: python pythonTasks\Task9.py
+     - run: python pythonTasks\Task10.py
+     - run: python pythonTasks\Task11.py
+     - run: python pythonTasks\Task12.py
+     - run: python pythonTasks\Task13.py
+     - run: python pythonTasks\Task14.py
+     - run: python pythonTasks\Task15.py
+     - run: python pythonTasks\Task16.py
+     - run: python pythonTasks\Task17.py
+     - run: python pythonTasks\Task18.py
+     - run: python pythonTasks\Task19.py
+     - run: python pythonTasks\Task20.py
+     - run: python pythonTasks\Task21.py
+     - run: python pythonTasks\Task22.py
+     - run: python pythonTasks\Task23.py
+     - run: python pythonTasks\Task24.py
+     - run: python pythonTasks\Task25.py
+     
